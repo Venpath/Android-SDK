@@ -77,7 +77,7 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-        requestRequiredPermissions();
+        //requestRequiredPermissions();
     }
 
     /**
