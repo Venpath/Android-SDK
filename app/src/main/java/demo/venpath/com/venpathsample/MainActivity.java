@@ -11,6 +11,7 @@ import com.tbruyelle.rxpermissions.RxPermissions;
 import com.venpath.sdk.VenPath;
 import com.venpath.sdk.VenpathConfiguration;
 import com.venpath.sdk.generic.VenpathGeneric;
+import com.venpath.sdk.model.EventType;
 
 import rx.Subscriber;
 
@@ -35,7 +36,7 @@ public class MainActivity extends AppCompatActivity
         //to send app usage and generic data
         VenpathGeneric venpathGenericData = new VenpathGeneric().putVenpathGenericAttribute("app_name", getPackageName())
                                                                 .putVenpathGenericAttribute("event_date", "2016-03-28 21:58:00")
-                                                                .putVenpathGenericAttribute("event_type", "launch")
+                                                                .putVenpathGenericAttribute("event_type", EventType.LAUNCH)
                                                                 .putVenpathGenericAttribute("seconds_used", "100")
                                                                 .putVenpathGenericAttribute("permissions", "comma,delimited,list,here");
 
