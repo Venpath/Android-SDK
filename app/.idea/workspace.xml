@@ -7,94 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="482bff6c-3d08-423c-aba3-6befa6668155" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../VenpathSample.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-48-40-465.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-49-07-028.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-49-42-026.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-49-58-075.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-50-00-391.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-50-39-402.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-51-04-776.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-51-06-533.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-52-07-266.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-52-33-647.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-58-33-370.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-58-35-947.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-19-59-17-759.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-20-15-43-745.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-20-15-53-549.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-20-18-02-951.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-02-23-28-49-207.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-03-11-16-05-514.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-03-11-35-24-393.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-03-16-14-01-174.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-03-16-30-13-724.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-03-16-31-28-257.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-03-16-34-31-959.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-14-39-02-552.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-03-08-821.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-04-00-647.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-05-58-244.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-07-24-343.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-07-58-188.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-10-02-798.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-12-58-001.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-13-44-325.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-16-51-540.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-20-52-665.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-23-39-565.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-15-27-06-618.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-17-51-44-216.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-17-53-12-140.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-17-55-07-213.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-17-57-26-673.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-18-22-10-072.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-18-24-05-475.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-18-25-45-804.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-04-18-26-37-711.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-11-31-08-835.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-11-38-43-385.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-11-40-23-282.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-11-41-51-937.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-11-42-53-982.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-11-59-37-697.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-12-25-44-094.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-13-05-40-445.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-13-06-48-870.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-05-13-06-55-437.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-06-11-28-31-575.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-06-11-43-07-992.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-06-11-59-06-958.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-06-12-07-46-384.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-06-12-19-18-946.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-06-12-21-59-070.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-06-12-28-22-996.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-06-12-29-46-392.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-11-53-48-483.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-11-54-09-622.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-12-14-08-056.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-12-14-12-038.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-12-15-30-072.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-12-15-33-094.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-12-23-18-703.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-12-23-22-444.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-12-25-10-383.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-12-25-13-146.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-12-47-58-084.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-14-12-50-614.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/android-profile/profile-2017-04-09-14-12-54-618.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/generated/mockable-android-25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/intermediates/dex-cache/cache.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../build/intermediates/jack-cache/cache.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../local.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../venpath/venpath.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/misc.xml" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/VenpathApplication.java" afterPath="$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/VenpathApplication.java" />
     </list>
     <ignored path="app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -109,7 +22,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
@@ -121,23 +33,48 @@
     <favorites_list name="app" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="local.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/local.properties">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="VenpathApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/VenpathApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-377">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="298">
+              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/LogUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-205">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="57" column="116" lean-forward="false" selection-start-line="57" selection-start-column="116" selection-end-line="57" selection-end-column="116" />
+              <folding>
+                <element signature="e#2223#2224#0" expanded="true" />
+                <element signature="e#2290#2291#0" expanded="true" />
+                <element signature="e#2374#2375#0" expanded="true" />
+                <element signature="e#2442#2443#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,22 +88,26 @@
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/VenpathApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1239" />
     <option name="height" value="777" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
@@ -182,49 +123,75 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="venpath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="venpath" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="app" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="venpath" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="venpathsample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
@@ -233,6 +200,18 @@
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../build.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
@@ -248,7 +227,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -256,7 +234,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -284,7 +261,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
     </configuration>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
@@ -308,6 +284,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="482bff6c-3d08-423c-aba3-6befa6668155" name="Default" comment="" />
@@ -327,37 +306,40 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1239" height="777" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1440" height="827" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.48705095" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.51294905" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30606487" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979115" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21745351" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30606487" sideWeight="0.49713877" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.48705095" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -383,18 +365,48 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/local.properties">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-377">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/LogUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="57" column="116" lean-forward="false" selection-start-line="57" selection-start-column="116" selection-end-line="57" selection-end-column="116" />
+          <folding>
+            <element signature="e#2223#2224#0" expanded="true" />
+            <element signature="e#2290#2291#0" expanded="true" />
+            <element signature="e#2374#2375#0" expanded="true" />
+            <element signature="e#2442#2443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/demo/venpath/com/venpathsample/VenpathApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
           <folding />
         </state>
       </provider>

@@ -11,21 +11,19 @@ public class VenpathApplication extends Application
     boolean isPassiveBackground;
 
     @Override
-    public void onCreate()
-    {
+    public void onCreate() {
         super.onCreate();
 
         // If you are in development, set isTest = true;
-        if(BuildConfig.DEBUG)
-        {
+        if(BuildConfig.DEBUG) {
             isTest = true;
-        }
-        else
-        {
+        } else {
             isTest = false;
         }
+
         // If you want to enable passive background location mode, set isPassiveBackground = true;
         isPassiveBackground = false;
+
         // And now, we auth.
         VenPath.init(isTest, "bosskey", "shhhh", "lookatme", isPassiveBackground);
     }

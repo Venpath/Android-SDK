@@ -33,14 +33,11 @@ public class MainActivity extends AppCompatActivity
 
         venpath = VenPath.getInstance(MainActivity.this);
 
-        //to send app usage and generic data
-        VenpathGeneric venpathGenericData = new VenpathGeneric().putVenpathGenericAttribute("app_name", getPackageName())
-                                                                .putVenpathGenericAttribute("event_date", "2016-03-28 21:58:00")
-                                                                .putVenpathGenericAttribute("event_type", EventType.LAUNCH)
-                                                                .putVenpathGenericAttribute("seconds_used", "100")
-                                                                .putVenpathGenericAttribute("permissions", "comma,delimited,list,here");
+        // to send email data, use this code on registration.
+        VenpathGeneric venpathGenericDataEmail = new VenpathGeneric().putVenpathGenericAttribute("email", myEmailVar)
+                                                                     .putVenpathGenericAttribute("new_user", true); // Note how this is true.  That means it's a registration event.
 
-        venpath.setVenpathGenericData(venpathGenericData);
+        venpath.setVenpathGenericData(venpathGenericDataEmail);
 
         venpath.track(new VenPath.Callback()
         {
@@ -57,9 +54,9 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-        //to send app usage and generic data
-        VenpathGeneric venpathGenericDataEmail = new VenpathGeneric().putVenpathGenericAttribute("email", "dharmarajsharma@outlook.com")
-                                                                     .putVenpathGenericAttribute("new_user", true);
+        // to send email data, use this code on log in
+        VenpathGeneric venpathGenericDataEmail = new VenpathGeneric().putVenpathGenericAttribute("email", myEmailVar)
+                .putVenpathGenericAttribute("new_user", false); // Note how this is false.  That means it's a login event.
 
         venpath.setVenpathGenericData(venpathGenericDataEmail);
 
