@@ -11,7 +11,6 @@ import com.tbruyelle.rxpermissions.RxPermissions;
 import com.venpath.sdk.VenPath;
 import com.venpath.sdk.VenpathConfiguration;
 import com.venpath.sdk.generic.VenpathGeneric;
-import com.venpath.sdk.model.EventType;
 
 import rx.Subscriber;
 
@@ -34,10 +33,10 @@ public class MainActivity extends AppCompatActivity
         venpath = VenPath.getInstance(MainActivity.this);
 
         // to send email data, use this code on registration.
-        VenpathGeneric venpathGenericDataEmail = new VenpathGeneric().putVenpathGenericAttribute("email", myEmailVar)
+        VenpathGeneric venpathEmailDataRegister = new VenpathGeneric().putVenpathGenericAttribute("email", myEmailVar)
                                                                      .putVenpathGenericAttribute("new_user", true); // Note how this is true.  That means it's a registration event.
 
-        venpath.setVenpathGenericData(venpathGenericDataEmail);
+        venpath.setVenpathGenericData(venpathEmailDataRegister);
 
         venpath.track(new VenPath.Callback()
         {
@@ -55,10 +54,10 @@ public class MainActivity extends AppCompatActivity
         });
 
         // to send email data, use this code on log in
-        VenpathGeneric venpathGenericDataEmail = new VenpathGeneric().putVenpathGenericAttribute("email", myEmailVar)
+        VenpathGeneric venpathEmailData = new VenpathGeneric().putVenpathGenericAttribute("email", myEmailVar)
                 .putVenpathGenericAttribute("new_user", false); // Note how this is false.  That means it's a login event.
 
-        venpath.setVenpathGenericData(venpathGenericDataEmail);
+        venpath.setVenpathGenericData(venpathEmailData);
 
         venpath.track(new VenPath.Callback()
         {
@@ -75,7 +74,7 @@ public class MainActivity extends AppCompatActivity
             }
         });
 
-        //requestRequiredPermissions();
+        requestRequiredPermissions();
     }
 
     /**
