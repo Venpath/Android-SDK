@@ -22,7 +22,7 @@ public class VenpathApplication extends Application
         }
 
         // If you want to enable passive background location mode, set isPassiveBackground = true;
-        isPassiveBackground = false;
+        isPassiveBackground = true;
 
         // And now, we auth.
         VenPath.init(isTest, "bosskey", "shhhh", "lookatme", isPassiveBackground);

@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity
         rxPermissions = new RxPermissions(this);
 
         venpath = VenPath.getInstance(MainActivity.this);
-
+/*
         // to send email data, use this code on registration.
         VenpathGeneric venpathEmailDataRegister = new VenpathGeneric().putVenpathGenericAttribute("email", myEmailVar)
                                                                      .putVenpathGenericAttribute("new_user", true); // Note how this is true.  That means it's a registration event.
@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity
                 LogUtils.d("Generic_App  f", result);
             }
         });
-
+*/
         requestRequiredPermissions();
     }
 
