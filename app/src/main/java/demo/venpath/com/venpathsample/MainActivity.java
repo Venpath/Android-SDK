@@ -32,7 +32,10 @@ public class MainActivity extends AppCompatActivity
 
         venpath = VenPath.getInstance(MainActivity.this);
 
-        // to send email data, use this code on registration.
+        ////////////////
+        // To send email data, use this code on registration.
+        // Make sure it's the actual email, not a sample email or you will be banned.
+        // Note:  The email address is encoded and never transmitted raw.
         VenpathGeneric venpathEmailDataRegister = new VenpathGeneric().putVenpathGenericAttribute("email", myEmailVar)
                                                                      .putVenpathGenericAttribute("new_user", true); // Note how this is true.  That means it's a registration event.
 
@@ -52,8 +55,13 @@ public class MainActivity extends AppCompatActivity
                 LogUtils.d("Generic_App  f", result);
             }
         });
+        ////////////////
 
-        // to send email data, use this code on log in
+
+        ////////////////
+        // To send email data, use this code on log in
+        // Make sure it's the actual email, not a sample email or you will be banned.
+        // Note:  The email address is encoded and never transmitted raw.
         VenpathGeneric venpathEmailData = new VenpathGeneric().putVenpathGenericAttribute("email", myEmailVar)
                 .putVenpathGenericAttribute("new_user", false); // Note how this is false.  That means it's a login event.
 
@@ -73,13 +81,14 @@ public class MainActivity extends AppCompatActivity
                 LogUtils.d("Generic_App  f", result);
             }
         });
+        ////////////////
 
         requestRequiredPermissions();
     }
 
     /**
      * Requests the Location permissions
-     * if accepted, starts the location retrieval process
+     * If accepted, starts the location retrieval process
      */
     private void requestRequiredPermissions()
     {
